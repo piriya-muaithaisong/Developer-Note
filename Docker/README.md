@@ -10,3 +10,7 @@ example:
 ```bash
 sudo docker pull postgres:15-alpine
 ```
+
+ToDo
+- ps
+- image
